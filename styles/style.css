@@ -1,9 +1,16 @@
 html {
-    margin: 0 auto;
+    margin: 0;
     padding: 0px;
     background-color: black;
     color: white;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    --main-background-color: hsl(0, 0%, 0%);
+    --secondary-background-color: hsl(0, 0%, 27%);
+    --ternary-background-color: hsl(0, 0%, 60%);
+
+    --main-color: hsl(73, 76%, 67%);
+    --secondary-color: hsl(73, 50%, 41%);
 }
 
 .md-h1 {

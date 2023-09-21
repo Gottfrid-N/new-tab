@@ -1,0 +1,24 @@
+.nav-bar {
+    padding: 4px;
+}
+
+hr {
+    color: var(--secondary-background-color);
+}
+
+.nav-bar-element {
+    color: white;
+    text-align: center;
+    
+    display: inline-block;
+    padding: 3px 6px;
+}
+
+.nav-link {
+    font-weight: bold;
+    text-decoration: underline var(--ternary-background-color) 1px;
+}
+
+#nav-current {
+    border-bottom: 1px solid var(--main-color);
+}
