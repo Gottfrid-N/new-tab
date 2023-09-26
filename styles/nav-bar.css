@@ -16,6 +16,7 @@ hr {
 
 .nav-link {
     font-weight: bold;
+    font-style: normal;
     text-decoration: underline var(--ternary-background-color) 1px;
 }
 
